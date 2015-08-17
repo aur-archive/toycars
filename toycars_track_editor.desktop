@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Toy Cars Track Editor
+Comment=A track editor for Toy Cars
+Exec=toycars_track_editor
+Icon=toycars.png
+Terminal=false
+Categories=Game;ArcadeGame;

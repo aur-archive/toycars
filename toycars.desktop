@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Toy Cars
+Comment=A top down physics based car racing game
+Exec=toycars
+Icon=toycars.png
+Terminal=false
+Categories=Game;ArcadeGame;
